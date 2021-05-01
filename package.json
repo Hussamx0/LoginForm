@@ -1,0 +1,18 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "This Is login form created by Hussam",
+  "main": "login.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mysql": "^2.18.1",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hussam Alahmadi",
+  "license": "ISC"
+}
